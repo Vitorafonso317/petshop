@@ -1,0 +1,7 @@
+# Arquivo de dados do Pet Shop
+# Este arquivo pode ser usado para persistir dados do sistema
+
+# Formato sugerido:
+# ANIMAIS: nome,tipo,idade,preco
+# CLIENTES: nome,telefone
+# VENDAS: animal,cliente,data,valor
